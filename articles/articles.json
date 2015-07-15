@@ -1,0 +1,51 @@
+[
+    {
+	"tag": "ガジェット",
+	"name": "about",
+	"title": "誰でも簡単にカスタマイズ可能なキーボード「Trickey」が登場",
+	"thumb": "main_2.jpg"
+    },
+    {
+	"tag": "レビュー",
+	"name": "demo",
+	"title": "組み換えキーボード「Trickey」を実際に使ってみた",
+	"thumb": "main_1.jpg"
+    },
+    {
+	"tag": "レビュー",
+	"name": "game",
+	"title": "「Trickey」を使って自分だけのゲーミングキーボードを作ってみた",
+	"thumb": "game_3.jpg"
+    },
+    {
+	"tag": "レビュー",
+	"name": "illust",
+	"title": "絵師たちに贈る「Trickey」でペンタブ環境をすっきりさせる方法",
+	"thumb": "pentab_image.jpg"
+    },
+    {
+	"tag": "ハードウェア",
+	"name": "cost",
+	"title": "「Trickey」が低価格を実現できた理由",
+	"thumb": "coins.jpg"
+    },
+    {
+	"tag": "ソフトウェア",
+	"name": "comm",
+	"title": "I<sup>2</sup>CのようでI<sup>2</sup>Cじゃない!?「Trickey」の通信を担う独自プロトコル",
+	"thumb": "cable.jpg"
+    },
+    {
+	"tag": "デザイン",
+	"name": "size",
+	"title": "「Trickey」キーユニットの小型化の歴史まとめ",
+	"thumb": "key_3.jpg"
+    },
+    {
+	"tag": "宗教",
+	"name": "vim",
+	"title": "「Trickey」発、憎きvimを瞬殺する「Kill vim board」",
+	"thumb": "ignucius.jpg"
+    }
+
+]
